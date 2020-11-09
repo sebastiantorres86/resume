@@ -111,7 +111,7 @@ button {
   border-radius: 50%;
 }
 
-figure img {
+.figure img {
   display: block; /*remove inline-block spaces*/
   width: 105%; /*make image streatch*/
 }
