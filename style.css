@@ -43,7 +43,7 @@ main {
 }
 
 .left {
-  flex: 1.25;
+  flex: 1;
 }
 .right {
   flex: 1;
