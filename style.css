@@ -103,7 +103,7 @@ button {
   border: 1px solid var(--grey);
 }
 
-figure {
+.figure {
   width: 150px; /*container-width*/
   height: 150px;
   overflow: hidden; /*hide bounds of image */
