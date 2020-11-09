@@ -106,8 +106,8 @@ button {
 }
 
 .figure {
-  width: 100px; /*container-width*/
-  height: 100px;
+  width: 140px; /*container-width*/
+  height: 140px;
   overflow: hidden; /*hide bounds of image */
   margin: 0; /*reset margin of figure tag*/
   border-radius: 50%;
